@@ -1,0 +1,4 @@
+(test
+  (package foo_unix)
+  (name main)
+  (libraries foo_unix))

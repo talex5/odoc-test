@@ -1,0 +1,4 @@
+(library
+ (name foo_unix)
+ (package foo_unix)
+ (libraries foo))
