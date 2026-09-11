@@ -10,7 +10,7 @@
  (description "A longer description")
  (depends
    ocaml
-   (foo_unix :with-doc)))
+   (foo_unix (and :with-doc :post))))
 
 (package
  (name foo_unix)
