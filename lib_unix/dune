@@ -1,4 +1,4 @@
 (library
  (public_name foo_unix)
  (name foo_unix)
- (libraries foo))
+ (libraries foo unix))
